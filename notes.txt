@@ -1,0 +1,6 @@
+1. a ZKP is some data that shows a specific computation was carried out in a valid way, and that the associated public inputs represent certain values within that computation 
+
+2. Know that the value of a ZKP is determined by how the computation and revealed values relate to things in the real world
+
+3. Know that making circuits is about deciding what computation and public input would prove the valim we would want to prove (e.g. what circuit and public inputs would prove that we are the own of Satoshi's private key) 
+
